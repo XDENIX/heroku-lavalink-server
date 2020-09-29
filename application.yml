@@ -1,6 +1,6 @@
 server:
-  port: DYNAMICPORT
-  address: 0.0.0.0
+  port: denidiscord1.fvds.ru
+  address: 127.0.0.1
 lavalink:
   server:
     password: "youshallnotpass"
